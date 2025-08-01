@@ -56,4 +56,12 @@ Found a bug? Ping us or open a security PR — bounties await.
 
 ---
 
+### 🌐 Official Website
+
+For official releases, updates, and documentation, always refer to  
+[algo-wallet.com](https://algo-wallet.com) — the sole authoritative source for Algo Wallet.
+
+All GitHub releases and mirrors are cryptographically identical to the builds published at this domain.
+
+
 <p align="center"><sub>© 2025 Algo Wallet — ice‑cold since v1.6.0</sub></p>
