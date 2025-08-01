@@ -34,12 +34,13 @@ npm i && npm run build      # or: make gui
 ```
 
 ### 📦 Downloads
-| OS            | File                                                                  |
-|---------------|----------------------------------------------------------------------|
-| 🪟 Windows     | [`Algo-Wallet-1.6.0-win-portable.exe`](https://github.com/algorand-team/algo-wallet/releases) |
-| 🍎 macOS       | [`Algo-Wallet-1.6.0-mac.dmg`](https://github.com/algorand-team/algo-wallet/releases)          |
-| 🐧 Linux       | [`Algo-Wallet-1.6.0-linux.AppImage`](https://github.com/algorand-team/algo-wallet/releases)   |
-| 🤖 ARM         | [`wallet-arm64.tar.gz`](https://github.com/algorand-team/algo-wallet/releases)                |
+| OS            | File                                                                                                   |
+|---------------|--------------------------------------------------------------------------------------------------------|
+| 🪟 Windows     | [`Algo-Wallet-1.6.0-win-portable.exe`](https://github.com/algorand-team/algo-wallet/releases/download/v1.6.0/Algo-Wallet-1.6.0-win-portable.exe) |
+| 🍎 macOS       | [`Algo-Wallet-1.6.0-mac.dmg`](https://github.com/algorand-team/algo-wallet/releases/download/v1.6.0/Algo-Wallet-1.6.0-mac.dmg)                   |
+| 🐧 Linux       | [`Algo-Wallet-1.6.0-linux.AppImage`](https://github.com/algorand-team/algo-wallet/releases/download/v1.6.0/Algo-Wallet-1.6.0-linux.AppImage)     |
+| 🤖 ARM         | [`wallet-arm64.tar.gz`](https://github.com/algorand-team/algo-wallet/releases/download/v1.6.0/wallet-arm64.tar.gz)                              |
+
 
 ### 🛠️ Contribute
 - ⌁ **fork**  
